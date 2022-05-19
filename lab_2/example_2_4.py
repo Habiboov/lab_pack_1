@@ -2,7 +2,7 @@
 print('__ функции len и range __')
 
 example_list = [1, 2, 3, 4, 5, 6, 7]
-# Функция len нужна для измерения размера массива
+# Функция len нужна для измерения размера списка
 # Измерим example_list, его длина будет равна 7
 example_list_len = len(example_list)
 print('длина example_list:', example_list_len)
